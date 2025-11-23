@@ -52,18 +52,17 @@ Password: root
 
 
 🧪 Instructions for Testing
-
 Follow these steps to verify the project functionalities:
 
 1) Login: Launch the app and enter the credentials (admin / root).
    
-2)Add a Student: Select Option 1. Enter a unique ID (e.g., 101), Name, and other details.
+ 2)Add a Student: Select Option 1. Enter a unique ID (e.g., 101), Name, and other details.
 
-3)Verify Addition: Select Option 2 to "Read All Students". Confirm your new entry appears.
+ 3)Verify Addition: Select Option 2 to "Read All Students". Confirm your new entry appears.
 
-4)Test Persistence: Close the application completely. Run it again. Select Option 2 to ensure the data is still there.
+ 4)Test Persistence: Close the application completely. Run it again. Select Option 2 to ensure the data is still there.
+ 
+ 5)Modify Data: Select Option 4 (Update). Enter the ID 101 and provide new details.
 
-5)Modify Data: Select Option 4 (Update). Enter the ID 101 and provide new details.
-
-6)Delete: Select Option 5 to remove the student or delete the file.
+ 6)Delete: Select Option 5 to remove the student or delete the file.
 
